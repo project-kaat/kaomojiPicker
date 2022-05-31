@@ -95,7 +95,7 @@ class rootWindow(Gtk.Window):
 
     def _copyToClipboardXsel(self, text):
 
-        system(f"echo -n -E '{text}' | xsel -i -b")
+        system(f"`which echo` -n -E '{text}' | xsel -i -b")
 
     def _copyToClipboardGtk(self, text):
 
