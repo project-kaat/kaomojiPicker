@@ -1,6 +1,6 @@
 # kaomoji picker GTK app
 
-Welp. I wanted one so I could do this ¯\\_(ツ)_/¯. Here it is.
+Welp. I wanted one so I could do this ¯\\\_(ツ)\_/¯. Here it is.
 
 I use it with Gnome DE and a custom hotkey to quickly find and copy my emotes.
 
