@@ -57,7 +57,7 @@ class default:
 
             "devious smil" : "ಠ‿ಠ",
             
-            "4chan emoticon " : "( ͡° ͜ʖ ͡°)",
+            "4chan emoticon / lenny face" : "( ͡° ͜ʖ ͡°)",
             
             "crying face" : "ಥ_ಥ",
             
