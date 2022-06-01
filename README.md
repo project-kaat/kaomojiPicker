@@ -28,6 +28,8 @@ You will be presented with a window if everything works fine.
 
 You can use the entry bar at the top to filter your mojis and the list below for copying mojis to clipboard.
 
+![little demo of usage](./res/demo.gif)
+
 ## Configure and extend
 
 Configuration constants are available at _meta.py_.
